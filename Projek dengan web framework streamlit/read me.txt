@@ -1,0 +1,6 @@
+untuk menjalankan file UG01_Assignment_Tugas_Akhir_5_Kelompok_6.py dibawah :
+1. menginstall terlebih dahulu streamlit di environment python yang dipakai
+pip install streamlit
+2. kemudian di repository ini, file bisa di jalankan dengan command :
+streamlit run UG01_Assignment_Tugas_Akhir_5_Kelompok_6.py
+3. setelah itu, streamlit akan membuka aplikasi pada browser. aplikasi web berjalan di localhost
